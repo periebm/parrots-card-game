@@ -35,6 +35,13 @@ body{
     margin: 0 34px 34px 34px;
     border: 1px solid #99CEA8;
     border-radius: 5px;
+    display: flex;
+}
+
+.parrot_back{
+    height: 100px;
+    width: 100px;
+    margin: auto;
 }
 
 h1{
