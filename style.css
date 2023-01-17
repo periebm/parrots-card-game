@@ -76,16 +76,7 @@ h1{
 
 }
 
-.correct{
-
-}
-
-.already-clicked{
-    
-}
-
 @media(max-width: 600px){
-
     .deck{
         width: 100%;
         display: block;
